@@ -1,1 +1,2 @@
-/data*
+# Ignore all dataset files
+data/
